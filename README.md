@@ -1,8 +1,17 @@
 [@aureooms/js-mincut](https://aureooms.github.io/js-mincut)
 ==
 
-Minimum cut problem for JavaScript.
+Minimum cut algorithm for JavaScript.
 See [docs](https://aureooms.github.io/js-mincut/index.html).
+
+```js
+// 5      2
+// |\    /|
+// | 0--1 |
+// |/    \|
+// 4      3
+mincut([[0,1],[1,2],[1,3],[2,3],[0,4],[0,5],[4,5]]); // 0--1
+```
 
 [![License](https://img.shields.io/github/license/aureooms/js-mincut.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-mincut/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-mincut.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-mincut)
