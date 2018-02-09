@@ -22,7 +22,11 @@
   "bugs": {
     "url": "https://github.com/aureooms/js-mincut/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@aureooms/js-compare": "^1.4.5",
+    "@aureooms/js-itertools": "^3.4.0",
+    "@aureooms/js-pairing-heap": "^0.1.1"
+  },
   "devDependencies": {
     "ava": "^0.25.0",
     "babel-cli": "^6.26.0",
@@ -38,7 +42,12 @@
     "nyc": "^11.4.1"
   },
   "homepage": "https://aureooms.github.io/js-mincut",
-  "keywords": ["cut", "graph", "min-cut", "minimum"],
+  "keywords": [
+    "cut",
+    "graph",
+    "min-cut",
+    "minimum"
+  ],
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
