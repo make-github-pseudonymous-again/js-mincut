@@ -12,13 +12,10 @@ export default function* _smallcuts ( G ) {
 	while ( H.size >= 2 ) {
 
 		const ordering = list(_order(H));
-		const x = ordering[ordering.length-2][0];
-		const y = ordering[ordering.length-1][0];
+		const [ x ] = ordering[ordering.length-2];
+		const [ y , cutsize ] = ordering[ordering.length-1];
 
-		const U = new Set(chain(map( ([u,_]) => id.get(u) , head(ordering,-1) ) ));
-		const V = new Set(id.get(y));
-
-		yield { 'partition' : [ U , V ] , 'size' : ordering[ordering.length-1][1] } ;
+		yield [ new Set(id.get(y)) , cutsize ] ;
 
 		id.set(x, id.get(x).concat(id.get(y)));
 

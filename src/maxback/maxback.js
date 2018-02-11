@@ -10,6 +10,6 @@ import outgoingedges from '../outgoingedges';
  */
 export default function maxback ( edges ) {
 	const G = adj( edges ) ;
-	const { partition : [ U , _ ] } = mb( G ) ;
+	const [ U ] = mb( G ) ;
 	return outgoingedges( G , U ) ;
 }
