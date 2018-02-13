@@ -1,22 +1,33 @@
 import { head } from '@aureooms/js-itertools' ;
 
+/**
+ * Given G and some ordering, computes the graph H obtained from G by
+ * contracting all edges between the last two vertices of the ordering.
+ *
+ * @param {Map} G
+ * @param {Array} ordering
+ * @returns {Map}
+ */
 export default function _contract ( G, ordering ) {
 
-	const x = ordering[ordering.length-2];
-	const y = ordering[ordering.length-1];
+	const u = ordering[ordering.length-2];
+	const v = ordering[ordering.length-1];
 
 	const H = new Map();
 
-	for ( const u of head( ordering , -2 ) ) {
+	// replace each edge xv by the edge xu, x != u ^ x != v
+	for ( const x of head( ordering , -2 ) ) {
 		const n = [];
-		H.set(u, n);
-		for ( const v of G.get(u) ) n.push(v === y ? x : v);
+		H.set(x, n);
+		for ( const y of G.get(x) ) n.push(y === v ? u : y);
 	}
 
 	const nx = [];
-	H.set(x,nx);
-	for ( const v of G.get(x) ) if ( v !== y ) nx.push(v);
-	for ( const v of G.get(y) ) if ( v !== x && v !== y ) nx.push(v);
+	H.set(u,nx);
+	// keep all edges ux with, x != v (x != u is implied because G is loopless)
+	for ( const x of G.get(u) ) if ( x !== v ) nx.push(x);
+	// replace each edge vx by the edge ux, x != u ^ x != v
+	for ( const x of G.get(v) ) if ( x !== u && x !== v ) nx.push(x);
 	return H;
 
 }

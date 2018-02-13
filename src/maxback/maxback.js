@@ -3,10 +3,10 @@ import mb from './mb';
 import outgoingedges from '../outgoingedges';
 
 /**
- * Nagamochi-Ibaraki poly-time algorithm.
+ * Convenience wrapper around Nagamochi-Ibaraki poly-time algorithm.
  *
- * @param edges List of edges of a undirected unweighted connected loopless multigraph G.
- * @returns {Array} A minimum cut of G.
+ * @param {Iterable} edges List of edges of an undirected unweighted connected loopless multigraph G.
+ * @returns {Iterable} An iterable over the edges of a minimum cut of G.
  */
 export default function maxback ( edges ) {
 	const G = adj( edges ) ;
