@@ -1,0 +1,1046 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/adj.js",
+    "content": "\n/**\n * Constructs the adjacency list for an undirected unweighted connected\n * loopless multigraph G given as a list of edges.\n *\n * @param {Iterable} edges The edges of G.\n * @returns {Map} The adjacency list G.\n */\nexport default function adj ( edges ) {\n\tconst G = new Map();\n\tfor ( const [ u , v ] of edges ) {\n\t\tif ( !G.has(u) ) G.set(u, []) ;\n\t\tG.get(u).push(v);\n\t\tif ( !G.has(v) ) G.set(v, []) ;\n\t\tG.get(v).push(u);\n\t}\n\treturn G;\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/adj.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "adj",
+    "memberof": "src/adj.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/adj.js~adj",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/adj.js",
+    "importStyle": "adj",
+    "description": "Constructs the adjacency list for an undirected unweighted connected\nloopless multigraph G given as a list of edges.",
+    "lineNumber": 9,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Map} The adjacency list G."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "edges",
+        "description": "The edges of G."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Map"
+      ],
+      "spread": false,
+      "description": "The adjacency list G."
+    }
+  },
+  {
+    "__docId__": 50,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import adj from './adj' ;\nimport maxback from './maxback' ;\nimport mincut from './mincut' ;\n\nexport default mincut ;\n\nexport {\n\tadj ,\n\tmaxback ,\n\tmincut ,\n} ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/maxback/_contract.js",
+    "content": "import { head } from '@aureooms/js-itertools' ;\n\n/**\n * Given G and some ordering, computes the graph H obtained from G by\n * contracting all edges between the last two vertices of the ordering.\n *\n * @param {Map} G\n * @param {Array} ordering\n * @returns {Map}\n */\nexport default function _contract ( G, ordering ) {\n\n\tconst u = ordering[ordering.length-2];\n\tconst v = ordering[ordering.length-1];\n\n\tconst H = new Map();\n\n\t// replace each edge xv by the edge xu, x != u ^ x != v\n\tfor ( const x of head( ordering , -2 ) ) {\n\t\tconst n = [];\n\t\tH.set(x, n);\n\t\tfor ( const y of G.get(x) ) n.push(y === v ? u : y);\n\t}\n\n\tconst nx = [];\n\tH.set(u,nx);\n\t// keep all edges ux with, x != v (x != u is implied because G is loopless)\n\tfor ( const x of G.get(u) ) if ( x !== v ) nx.push(x);\n\t// replace each edge vx by the edge ux, x != u ^ x != v\n\tfor ( const x of G.get(v) ) if ( x !== u && x !== v ) nx.push(x);\n\treturn H;\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/maxback/_contract.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "_contract",
+    "memberof": "src/maxback/_contract.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/maxback/_contract.js~_contract",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/maxback/_contract.js",
+    "importStyle": "_contract",
+    "description": "Given G and some ordering, computes the graph H obtained from G by\ncontracting all edges between the last two vertices of the ordering.",
+    "lineNumber": 11,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Map}"
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "G",
+        "description": ""
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "ordering",
+        "description": ""
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Map"
+      ],
+      "spread": false,
+      "description": ""
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "file",
+    "name": "src/maxback/_order.js",
+    "content": "import { attr , decreasing } from '@aureooms/js-compare' ;\nimport { PairingHeap } from '@aureooms/js-pairing-heap' ;\n\n/**\n * Lists the vertices of an undirected unweighted connected loopless multigraph\n * G in max-back order.\n *\n * @param {Map} G The adjacency list of G.\n * @returns {Iterable} The vertices of G in max-back order.\n */\nexport default function* _order ( G ) {\n\n\tconst heap = new PairingHeap( attr( decreasing , 'weight' ) );\n\tconst refs = new Map();\n\n\tfor ( const v of G.keys() ) refs.set(v, heap.push({ weight : 0 , vertex : v })) ;\n\n\tfor ( const _ of G ) {\n\n\t\tconst max = heap.pop() ;\n\t\tconst u = max.vertex ;\n\t\tyield [ u , max.weight ] ;\n\t\trefs.delete(u);\n\n\t\t// update keys\n\t\tfor ( const v of G.get(u) ) {\n\t\t\tif (!refs.has(v)) continue;\n\t\t\tconst ref = refs.get(v);\n\t\t\t// max heap so decrease-weight is used for +\n\t\t\theap.decreasekey(ref, {\n\t\t\t\tweight : ref.value.weight + 1 ,\n\t\t\t\tvertex : ref.value.vertex\n\t\t\t} );\n\t\t}\n\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/maxback/_order.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 54,
+    "kind": "function",
+    "name": "_order",
+    "memberof": "src/maxback/_order.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/maxback/_order.js~_order",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/maxback/_order.js",
+    "importStyle": "_order",
+    "description": "Lists the vertices of an undirected unweighted connected loopless multigraph\nG in max-back order.",
+    "lineNumber": 11,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterable} The vertices of G in max-back order."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "G",
+        "description": "The adjacency list of G."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterable"
+      ],
+      "spread": false,
+      "description": "The vertices of G in max-back order."
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/maxback/_smallcuts.js",
+    "content": "import { list , map , head , filter , chain } from '@aureooms/js-itertools' ;\n\nimport _order from './_order' ;\nimport _contract from './_contract' ;\n\n/**\n * Yields the small cuts of undirected unweighted connected loopless multigraph G.\n * At least one of them must be a minimum cut.\n *\n * @param {Map} G The adjacency list of G.\n * @returns {Iterable} The small cuts of G.\n */\nexport default function* _smallcuts ( G ) {\n\n\tlet H = G;\n\tconst id = new Map();\n\tfor ( const v of G.keys()) id.set(v,[v]);\n\n\twhile ( H.size >= 2 ) {\n\n\t\tconst ordering = list(_order(H)); // compute the max-back order\n\t\tconst [ x ] = ordering[ordering.length-2];\n\t\tconst [ y , cutsize ] = ordering[ordering.length-1];\n\n\t\tyield [ new Set(id.get(y)) , cutsize ] ; // yield a small cut with its size\n\n\t\tid.set(x, id.get(x).concat(id.get(y))); // associate the last vertex with the penultimate one\n\n\t\tH = _contract(H, list(map(([u,_]) => u , ordering))); // contract all edges between those two vertices\n\n\t}\n\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/maxback/_smallcuts.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "function",
+    "name": "_smallcuts",
+    "memberof": "src/maxback/_smallcuts.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/maxback/_smallcuts.js~_smallcuts",
+    "access": "private",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/maxback/_smallcuts.js",
+    "importStyle": "_smallcuts",
+    "description": "Yields the small cuts of undirected unweighted connected loopless multigraph G.\nAt least one of them must be a minimum cut.",
+    "lineNumber": 13,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterable} The small cuts of G."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "G",
+        "description": "The adjacency list of G."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterable"
+      ],
+      "spread": false,
+      "description": "The small cuts of G."
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/maxback/index.js",
+    "content": "import _contract from './_contract' ;\nimport _order from './_order' ;\nimport _smallcuts from './_smallcuts' ;\nimport maxback from './maxback' ;\nimport mb from './mb' ;\n\nexport default maxback ;\n\nexport {\n\t_contract ,\n\t_order ,\n\t_smallcuts ,\n\tmaxback ,\n\tmb ,\n} ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/maxback/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 58,
+    "kind": "file",
+    "name": "src/maxback/maxback.js",
+    "content": "import adj from '../adj';\nimport mb from './mb';\nimport outgoingedges from '../outgoingedges';\n\n/**\n * Convenience wrapper around Nagamochi-Ibaraki poly-time algorithm.\n *\n * @param {Iterable} edges List of edges of an undirected unweighted connected loopless multigraph G.\n * @returns {Iterable} An iterable over the edges of a minimum cut of G.\n */\nexport default function maxback ( edges ) {\n\tconst G = adj( edges ) ;\n\tconst [ U ] = mb( G ) ;\n\treturn outgoingedges( G , U ) ;\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/maxback/maxback.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 59,
+    "kind": "function",
+    "name": "maxback",
+    "memberof": "src/maxback/maxback.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/maxback/maxback.js~maxback",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/maxback/maxback.js",
+    "importStyle": "maxback",
+    "description": "Convenience wrapper around Nagamochi-Ibaraki poly-time algorithm.",
+    "lineNumber": 11,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterable} An iterable over the edges of a minimum cut of G."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Iterable"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "edges",
+        "description": "List of edges of an undirected unweighted connected loopless multigraph G."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterable"
+      ],
+      "spread": false,
+      "description": "An iterable over the edges of a minimum cut of G."
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/maxback/mb.js",
+    "content": "import { min } from '@aureooms/js-itertools' ;\nimport { attr , increasing } from '@aureooms/js-compare' ;\n\nimport _smallcuts from './_smallcuts' ;\n\n/**\n * Nagamochi-Ibaraki poly-time algorithm.\n *\n * @param {Map} G The adjacency list of an undirected unweighted connected loopless multigraph G.\n * @returns {Array} A pair <code>[U,cutsize]</code> reprensenting a minimum cut of G.\n */\nexport default function mb ( G ) {\n\treturn min( attr( increasing , 1 ) , _smallcuts(G) , undefined ) ;\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/maxback/mb.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "mb",
+    "memberof": "src/maxback/mb.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/maxback/mb.js~mb",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/maxback/mb.js",
+    "importStyle": "mb",
+    "description": "Nagamochi-Ibaraki poly-time algorithm.",
+    "lineNumber": 12,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Array} A pair <code>[U,cutsize]</code> reprensenting a minimum cut of G."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "G",
+        "description": "The adjacency list of an undirected unweighted connected loopless multigraph G."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Array"
+      ],
+      "spread": false,
+      "description": "A pair <code>[U,cutsize]</code> reprensenting a minimum cut of G."
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/mincut.js",
+    "content": "import maxback from './maxback' ;\n\n/**\n * Default to the maxback algorithm.\n */\nexport default maxback ;\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/mincut.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "file",
+    "name": "src/outgoingedges.js",
+    "content": "/**\n * Yields all edges of an undirected unweighted connected loopless multigraph G\n * that have one endpoint inside some vertex subset U and that have the other\n * endpoint inside of V = V(G) \\ U.\n *\n * @param {Map} G The input undirected unweighted connected loopless multigraph.\n * @param {Set} U The subset of edges.\n * @returns {Iterable} The edges of G going from U to V(G) \\ U.\n */\nexport default function* outgoingedges ( G , U ) {\n\tfor ( const u of U ) {\n\t\tfor ( const v of G.get(u) ) {\n\t\t\tif ( !U.has(v) ) yield [ u , v ] ;\n\t\t}\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/src/outgoingedges.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 64,
+    "kind": "function",
+    "name": "outgoingedges",
+    "memberof": "src/outgoingedges.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/outgoingedges.js~outgoingedges",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-mincut/src/outgoingedges.js",
+    "importStyle": "outgoingedges",
+    "description": "Yields all edges of an undirected unweighted connected loopless multigraph G\nthat have one endpoint inside some vertex subset U and that have the other\nendpoint inside of V = V(G) \\ U.",
+    "lineNumber": 10,
+    "unknown": [
+      {
+        "tagName": "@returns",
+        "tagValue": "{Iterable} The edges of G going from U to V(G) \\ U."
+      }
+    ],
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Map"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "G",
+        "description": "The input undirected unweighted connected loopless multigraph."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Set"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "U",
+        "description": "The subset of edges."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Iterable"
+      ],
+      "spread": false,
+      "description": "The edges of G going from U to V(G) \\ U."
+    }
+  },
+  {
+    "kind": "index",
+    "content": "[@aureooms/js-mincut](https://aureooms.github.io/js-mincut)\n==\n\nMinimum cut algorithm for JavaScript.\nSee [docs](https://aureooms.github.io/js-mincut/index.html).\n\n```js\n// 5      2\n// |\\    /|\n// | 0--1 |\n// |/    \\|\n// 4      3\nmincut([[0,1],[1,2],[1,3],[2,3],[0,4],[0,5],[4,5]]); // 0--1\n```\n\n[![License](https://img.shields.io/github/license/aureooms/js-mincut.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-mincut/master/LICENSE)\n[![NPM version](https://img.shields.io/npm/v/@aureooms/js-mincut.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-mincut)\n[![Build status](https://img.shields.io/travis/aureooms/js-mincut.svg?style=flat)](https://travis-ci.org/aureooms/js-mincut)\n[![Coverage status](https://img.shields.io/coveralls/aureooms/js-mincut.svg?style=flat)](https://coveralls.io/r/aureooms/js-mincut)\n[![Dependencies status](https://img.shields.io/david/aureooms/js-mincut.svg?style=flat)](https://david-dm.org/aureooms/js-mincut)\n[![Dev dependencies status](https://img.shields.io/david/dev/aureooms/js-mincut.svg?style=flat)](https://david-dm.org/aureooms/js-mincut?type=dev)\n[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-mincut.svg?style=flat)](https://codeclimate.com/github/aureooms/js-mincut)\n[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-mincut.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-mincut)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-mincut.svg?style=flat)](https://github.com/aureooms/js-mincut/issues)\n[![Documentation](https://aureooms.github.io/js-mincut/badge.svg)](https://aureooms.github.io/js-mincut/source.html)\n",
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-mincut\",\n  \"description\": \"Minimum cut problem for JavaScript\",\n  \"version\": \"0.0.0\",\n  \"author\": \"aureooms\",\n  \"ava\": {\n    \"require\": [\n      \"babel-polyfill\",\n      \"babel-register\"\n    ]\n  },\n  \"babel\": {\n    \"presets\": [\n      \"env\"\n    ],\n    \"env\": {\n      \"development\": {\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-mincut/issues\"\n  },\n  \"dependencies\": {\n    \"@aureooms/js-compare\": \"^1.4.5\",\n    \"@aureooms/js-itertools\": \"^3.4.0\",\n    \"@aureooms/js-pairing-heap\": \"^0.1.1\"\n  },\n  \"devDependencies\": {\n    \"ava\": \"^0.25.0\",\n    \"babel-cli\": \"^6.26.0\",\n    \"babel-polyfill\": \"^6.26.0\",\n    \"babel-preset-env\": \"^1.6.1\",\n    \"codeclimate-test-reporter\": \"^0.5.0\",\n    \"coveralls\": \"^3.0.0\",\n    \"esdoc\": \"^1.0.4\",\n    \"esdoc-inject-script-plugin\": \"^1.0.0\",\n    \"esdoc-inject-style-plugin\": \"^1.0.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"np\": \"^2.20.0\",\n    \"nyc\": \"^11.4.1\"\n  },\n  \"homepage\": \"https://aureooms.github.io/js-mincut\",\n  \"keywords\": [\n    \"cut\",\n    \"graph\",\n    \"min-cut\",\n    \"minimum\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/aureooms/js-mincut\"\n  },\n  \"scripts\": {\n    \"build\": \"rm -rf lib && babel src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"esdoc\": \"esdoc\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava ./test/src\"\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[jspm](http://jspm.io)\nor [npm](https://github.com/npm/npm).\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-mincut\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-mincut --save\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\nThe code needs a ES2015+ polyfill to work, for example\n[babel-polyfill](https://babeljs.io/docs/usage/polyfill).\n```js\nrequire( 'babel-polyfill' ) ;\n// or\nimport 'babel-polyfill' ;\n```\n\nThen\n```js\nconst mincut = require( '@aureooms/js-mincut' ) ;\n// or\nimport * as mincut from '@aureooms/js-mincut' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/algorithms/graph/js-mincut/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Example\n",
+    "static": true,
+    "access": "public"
+  }
+]
