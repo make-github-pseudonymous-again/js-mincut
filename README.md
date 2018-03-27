@@ -4,6 +4,10 @@
 Minimum cut algorithm for JavaScript.
 See [docs](https://aureooms.github.io/js-mincut/index.html).
 
+#### About the algorithm:
+The goal of the algorithm is to find a global min-cut in a graph in polynomial time. The graph allows parallel edges. Edges are chosen randomly by the algorithm and are contracted until two nodes, which we call super nodes, remain.
+
+
 ```js
 // 5      2
 // |\    /|
