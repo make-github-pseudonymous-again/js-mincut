@@ -25,7 +25,7 @@
   "dependencies": {
     "@aureooms/js-compare": "^1.4.5",
     "@aureooms/js-itertools": "^3.4.0",
-    "@aureooms/js-pairing-heap": "^0.1.1"
+    "@aureooms/js-pairing-heap": "^1.0.0"
   },
   "devDependencies": {
     "ava": "0.25.0",
