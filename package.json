@@ -39,7 +39,7 @@
     "esdoc-inject-style-plugin": "1.0.0",
     "esdoc-standard-plugin": "1.0.0",
     "np": "2.20.1",
-    "nyc": "11.9.0"
+    "nyc": "15.0.1"
   },
   "homepage": "https://aureooms.github.io/js-mincut",
   "keywords": [
