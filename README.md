@@ -1,4 +1,4 @@
-[@aureooms/js-mincut](https://aureooms.github.io/js-mincut)
+:haircut_woman: [@aureooms/js-mincut](https://aureooms.github.io/js-mincut)
 ==
 
 Minimum cut algorithm for JavaScript.
