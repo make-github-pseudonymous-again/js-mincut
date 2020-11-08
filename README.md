@@ -1,7 +1,8 @@
 :haircut_woman: [@aureooms/js-mincut](https://aureooms.github.io/js-mincut)
 ==
 
-Minimum cut algorithm for JavaScript.
+Minimum cut algorithms for JavaScript.
+Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
 See [docs](https://aureooms.github.io/js-mincut/index.html).
 
 ```js
