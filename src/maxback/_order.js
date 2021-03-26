@@ -1,5 +1,5 @@
 import {attr, decreasing} from '@aureooms/js-compare';
-import {PairingHeap} from '@aureooms/js-pairing-heap';
+import {PairingHeap as Heap} from '@aureooms/js-pairing-heap';
 
 /**
  * Lists the vertices of an undirected unweighted connected loopless multigraph
@@ -9,7 +9,7 @@ import {PairingHeap} from '@aureooms/js-pairing-heap';
  * @returns {Iterable} The vertices of G in max-back order.
  */
 export default function* _order(G) {
-	const heap = new PairingHeap(attr(decreasing, 'weight'));
+	const heap = new Heap(attr(decreasing, 'weight'));
 	const refs = new Map();
 
 	for (const v of G.keys()) refs.set(v, heap.push({weight: 0, vertex: v}));
