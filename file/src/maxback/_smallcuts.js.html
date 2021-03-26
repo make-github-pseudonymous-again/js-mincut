@@ -41,10 +41,10 @@
 </nav>
 
 <div class="content" data-ice="content"><h1 data-ice="title">src/maxback/_smallcuts.js</h1>
-<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import { list , map , head , filter , chain } from &apos;@aureooms/js-itertools&apos; ;
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import {list, map} from &apos;@aureooms/js-itertools&apos;;
 
-import _order from &apos;./_order&apos; ;
-import _contract from &apos;./_contract&apos; ;
+import _order from &apos;./_order.js&apos;;
+import _contract from &apos;./_contract.js&apos;;
 
 /**
  * Yields the small cuts of undirected unweighted connected loopless multigraph G.
@@ -53,26 +53,22 @@ import _contract from &apos;./_contract&apos; ;
  * @param {Map} G The adjacency list of G.
  * @returns {Iterable} The small cuts of G.
  */
-export default function* _smallcuts ( G ) {
-
+export default function* _smallcuts(G) {
 	let H = G;
 	const id = new Map();
-	for ( const v of G.keys()) id.set(v,[v]);
+	for (const v of G.keys()) id.set(v, [v]);
 
-	while ( H.size &gt;= 2 ) {
+	while (H.size &gt;= 2) {
+		const ordering = list(_order(H)); // Compute the max-back order
+		const [x] = ordering[ordering.length - 2];
+		const [y, cutsize] = ordering[ordering.length - 1];
 
-		const ordering = list(_order(H)); // compute the max-back order
-		const [ x ] = ordering[ordering.length-2];
-		const [ y , cutsize ] = ordering[ordering.length-1];
+		yield [new Set(id.get(y)), cutsize]; // Yield a small cut with its size
 
-		yield [ new Set(id.get(y)) , cutsize ] ; // yield a small cut with its size
+		id.set(x, id.get(x).concat(id.get(y))); // Associate the last vertex with the penultimate one
 
-		id.set(x, id.get(x).concat(id.get(y))); // associate the last vertex with the penultimate one
-
-		H = _contract(H, list(map(([u,_]) =&gt; u , ordering))); // contract all edges between those two vertices
-
+		H = _contract(H, list(map(([u, _]) =&gt; u, ordering))); // Contract all edges between those two vertices
 	}
-
 }
 </code></pre>
 

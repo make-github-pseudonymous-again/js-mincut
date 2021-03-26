@@ -1,7 +1,7 @@
 {
   "type": "File",
   "start": 0,
-  "end": 105,
+  "end": 112,
   "loc": {
     "start": {
       "line": 1,
@@ -15,7 +15,7 @@
   "program": {
     "type": "Program",
     "start": 0,
-    "end": 105,
+    "end": 112,
     "loc": {
       "start": {
         "line": 1,
@@ -31,7 +31,7 @@
       {
         "type": "ImportDeclaration",
         "start": 0,
-        "end": 33,
+        "end": 41,
         "loc": {
           "start": {
             "line": 1,
@@ -39,7 +39,7 @@
           },
           "end": {
             "line": 1,
-            "column": 33
+            "column": 41
           }
         },
         "specifiers": [
@@ -79,7 +79,7 @@
         "source": {
           "type": "StringLiteral",
           "start": 20,
-          "end": 31,
+          "end": 40,
           "loc": {
             "start": {
               "line": 1,
@@ -87,21 +87,21 @@
             },
             "end": {
               "line": 1,
-              "column": 31
+              "column": 40
             }
           },
           "extra": {
-            "rawValue": "./maxback",
-            "raw": "'./maxback'"
+            "rawValue": "./maxback/index.js",
+            "raw": "'./maxback/index.js'"
           },
-          "value": "./maxback"
+          "value": "./maxback/index.js"
         },
         "trailingComments": [
           {
             "type": "CommentBlock",
             "value": "*\n * Default to the maxback algorithm.\n ",
-            "start": 35,
-            "end": 79,
+            "start": 43,
+            "end": 87,
             "loc": {
               "start": {
                 "line": 3,
@@ -117,8 +117,8 @@
       },
       {
         "type": "ExportDefaultDeclaration",
-        "start": 80,
-        "end": 104,
+        "start": 88,
+        "end": 111,
         "loc": {
           "start": {
             "line": 6,
@@ -126,13 +126,13 @@
           },
           "end": {
             "line": 6,
-            "column": 24
+            "column": 23
           }
         },
         "declaration": {
           "type": "Identifier",
-          "start": 95,
-          "end": 102,
+          "start": 103,
+          "end": 110,
           "loc": {
             "start": {
               "line": 6,
@@ -149,8 +149,8 @@
             {
               "type": "CommentBlock",
               "value": "*\n * Default to the maxback algorithm.\n ",
-              "start": 35,
-              "end": 79,
+              "start": 43,
+              "end": 87,
               "loc": {
                 "start": {
                   "line": 3,
@@ -169,8 +169,8 @@
           {
             "type": "CommentBlock",
             "value": "*\n * Default to the maxback algorithm.\n ",
-            "start": 35,
-            "end": 79,
+            "start": 43,
+            "end": 87,
             "loc": {
               "start": {
                 "line": 3,
@@ -191,8 +191,8 @@
     {
       "type": "CommentBlock",
       "value": "*\n * Default to the maxback algorithm.\n ",
-      "start": 35,
-      "end": 79,
+      "start": 43,
+      "end": 87,
       "loc": {
         "start": {
           "line": 3,
@@ -299,9 +299,9 @@
         "binop": null,
         "updateContext": null
       },
-      "value": "./maxback",
+      "value": "./maxback/index.js",
       "start": 20,
-      "end": 31,
+      "end": 40,
       "loc": {
         "start": {
           "line": 1,
@@ -309,7 +309,7 @@
         },
         "end": {
           "line": 1,
-          "column": 31
+          "column": 40
         }
       }
     },
@@ -326,24 +326,24 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 32,
-      "end": 33,
+      "start": 40,
+      "end": 41,
       "loc": {
         "start": {
           "line": 1,
-          "column": 32
+          "column": 40
         },
         "end": {
           "line": 1,
-          "column": 33
+          "column": 41
         }
       }
     },
     {
       "type": "CommentBlock",
       "value": "*\n * Default to the maxback algorithm.\n ",
-      "start": 35,
-      "end": 79,
+      "start": 43,
+      "end": 87,
       "loc": {
         "start": {
           "line": 3,
@@ -370,8 +370,8 @@
         "updateContext": null
       },
       "value": "export",
-      "start": 80,
-      "end": 86,
+      "start": 88,
+      "end": 94,
       "loc": {
         "start": {
           "line": 6,
@@ -398,8 +398,8 @@
         "updateContext": null
       },
       "value": "default",
-      "start": 87,
-      "end": 94,
+      "start": 95,
+      "end": 102,
       "loc": {
         "start": {
           "line": 6,
@@ -424,8 +424,8 @@
         "binop": null
       },
       "value": "maxback",
-      "start": 95,
-      "end": 102,
+      "start": 103,
+      "end": 110,
       "loc": {
         "start": {
           "line": 6,
@@ -450,16 +450,16 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 103,
-      "end": 104,
+      "start": 110,
+      "end": 111,
       "loc": {
         "start": {
           "line": 6,
-          "column": 23
+          "column": 22
         },
         "end": {
           "line": 6,
-          "column": 24
+          "column": 23
         }
       }
     },
@@ -476,8 +476,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 105,
-      "end": 105,
+      "start": 112,
+      "end": 112,
       "loc": {
         "start": {
           "line": 7,

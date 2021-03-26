@@ -41,10 +41,10 @@
 </nav>
 
 <div class="content" data-ice="content"><h1 data-ice="title">src/maxback/mb.js</h1>
-<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import { min } from &apos;@aureooms/js-itertools&apos; ;
-import { attr , increasing } from &apos;@aureooms/js-compare&apos; ;
+<pre class="source-code line-number raw-source-code"><code class="prettyprint linenums" data-ice="content">import {min} from &apos;@aureooms/js-itertools&apos;;
+import {attr, increasing} from &apos;@aureooms/js-compare&apos;;
 
-import _smallcuts from &apos;./_smallcuts&apos; ;
+import _smallcuts from &apos;./_smallcuts.js&apos;;
 
 /**
  * Nagamochi-Ibaraki poly-time algorithm.
@@ -52,8 +52,8 @@ import _smallcuts from &apos;./_smallcuts&apos; ;
  * @param {Map} G The adjacency list of an undirected unweighted connected loopless multigraph G.
  * @returns {Array} A pair &lt;code&gt;[U,cutsize]&lt;/code&gt; reprensenting a minimum cut of G.
  */
-export default function mb ( G ) {
-	return min( attr( increasing , 1 ) , _smallcuts(G) , undefined ) ;
+export default function mb(G) {
+	return min(attr(increasing, 1), _smallcuts(G), undefined);
 }
 </code></pre>
 
