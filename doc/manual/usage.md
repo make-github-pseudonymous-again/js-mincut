@@ -10,7 +10,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then
 ```js
-const mincut = require( '@aureooms/js-mincut' ) ;
+const {mincut} = require( '@aureooms/js-mincut' ) ;
 // or
-import * as mincut from '@aureooms/js-mincut' ;
+import {mincut} from '@aureooms/js-mincut' ;
 ```
