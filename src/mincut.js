@@ -1,4 +1,4 @@
-import maxback from './maxback' ;
+import maxback from "./maxback/index.js" ;
 
 /**
  * Default to the maxback algorithm.

@@ -1,7 +1,7 @@
 import { min } from '@aureooms/js-itertools' ;
 import { attr , increasing } from '@aureooms/js-compare' ;
 
-import _smallcuts from './_smallcuts' ;
+import _smallcuts from "./_smallcuts.js" ;
 
 /**
  * Nagamochi-Ibaraki poly-time algorithm.

@@ -1,7 +1,7 @@
 import { list , map , head , filter , chain } from '@aureooms/js-itertools' ;
 
-import _order from './_order' ;
-import _contract from './_contract' ;
+import _order from "./_order.js" ;
+import _contract from "./_contract.js" ;
 
 /**
  * Yields the small cuts of undirected unweighted connected loopless multigraph G.

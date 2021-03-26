@@ -1,6 +1,6 @@
-import adj from './adj' ;
-import maxback from './maxback' ;
-import mincut from './mincut' ;
+import adj from "./adj.js" ;
+import maxback from "./maxback/index.js" ;
+import mincut from "./mincut.js" ;
 
 export default mincut ;
 

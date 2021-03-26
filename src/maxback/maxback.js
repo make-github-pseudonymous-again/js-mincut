@@ -1,6 +1,6 @@
-import adj from '../adj';
-import mb from './mb';
-import outgoingedges from '../outgoingedges';
+import adj from "../adj.js";
+import mb from "./mb.js";
+import outgoingedges from "../outgoingedges.js";
 
 /**
  * Convenience wrapper around Nagamochi-Ibaraki poly-time algorithm.

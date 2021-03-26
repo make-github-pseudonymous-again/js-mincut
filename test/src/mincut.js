@@ -1,7 +1,7 @@
 import test from 'ava' ;
 import { list , map , sorted } from '@aureooms/js-itertools' ;
 import { increasing , fixedlexicographical } from '@aureooms/js-compare' ;
-import mincut from '../../src' ;
+import mincut from "../../src/index.js" ;
 
 function order ( edge ) {
 	return sorted( increasing , edge ) ;
