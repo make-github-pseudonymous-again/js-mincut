@@ -60,7 +60,7 @@
   "dependencies": {
     "@aureooms/js-compare": "^2.0.0",
     "@aureooms/js-itertools": "^5.1.0",
-    "@aureooms/js-pairing-heap": "^2.0.1"
+    "@aureooms/js-pairing-heap": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.13.15",
