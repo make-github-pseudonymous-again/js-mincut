@@ -1,9 +1,9 @@
-:haircut_woman: [@aureooms/js-mincut](https://aureooms.github.io/js-mincut)
+:haircut_woman: [@aureooms/js-mincut](https://make-github-pseudonymous-again.github.io/js-mincut)
 ==
 
 Minimum cut algorithms for JavaScript.
 Parent is [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms).
-See [docs](https://aureooms.github.io/js-mincut/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-mincut/index.html).
 
 ```js
 // 5      2
@@ -26,5 +26,5 @@ mincut([[0,1],[1,2],[1,3],[2,3],[0,4],[0,5],[4,5]]); // 0--1
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-mincut.svg)](https://codeclimate.com/github/aureooms/js-mincut/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-mincut/main.svg)](https://codecov.io/gh/aureooms/js-mincut)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-mincut.svg)](https://codeclimate.com/github/aureooms/js-mincut/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-mincut/badge.svg)](https://aureooms.github.io/js-mincut/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-mincut/badge.svg)](https://make-github-pseudonymous-again.github.io/js-mincut/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-mincut)](https://bundlephobia.com/result?p=@aureooms/js-mincut)
