@@ -1,6 +1,8 @@
 import test from 'ava';
-import {map, sorted} from '@aureooms/js-itertools';
-import {increasing, fixedlexicographical} from '@aureooms/js-compare';
+import {map} from '@iterable-iterator/map';
+import {sorted} from '@iterable-iterator/sorted';
+import {increasing} from '@total-order/primitive';
+import {fixedlexicographical} from '@total-order/lex';
 import {mincut} from '../../src/index.js';
 
 function order(edge) {

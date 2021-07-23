@@ -1,4 +1,5 @@
-import {list, map} from '@aureooms/js-itertools';
+import {list} from '@iterable-iterator/list';
+import {map} from '@iterable-iterator/map';
 
 import _order from './_order.js';
 import _contract from './_contract.js';

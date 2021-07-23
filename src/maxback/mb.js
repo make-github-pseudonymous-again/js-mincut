@@ -1,5 +1,6 @@
-import {min} from '@aureooms/js-itertools';
-import {attr, increasing} from '@aureooms/js-compare';
+import {min} from '@iterable-iterator/reduce';
+import {prop} from '@total-order/key';
+import {increasing} from '@total-order/primitive';
 
 import _smallcuts from './_smallcuts.js';
 
@@ -10,5 +11,5 @@ import _smallcuts from './_smallcuts.js';
  * @returns {Array} A pair <code>[U,cutsize]</code> reprensenting a minimum cut of G.
  */
 export default function mb(G) {
-	return min(attr(increasing, 1), _smallcuts(G), undefined);
+	return min(prop(increasing, 1), _smallcuts(G), undefined);
 }

@@ -1,4 +1,4 @@
-import {head} from '@aureooms/js-itertools';
+import {head} from '@iterable-iterator/slice';
 
 /**
  * Given G and some ordering, computes the graph H obtained from G by
