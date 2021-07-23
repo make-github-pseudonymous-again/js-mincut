@@ -1,16 +1,16 @@
 {
-  "name": "@aureooms/js-mincut",
+  "name": "@graph-algorithm/minimum-cut",
   "description": "Minimum cut problem for JavaScript",
   "version": "1.0.1",
   "license": "AGPL-3.0",
-  "author": "aureooms",
-  "homepage": "https://make-github-pseudonymous-again.github.io/js-mincut",
+  "author": "make-github-pseudonymous-again",
+  "homepage": "https://graph-algorithm.github.io/minimum-cut",
   "repository": {
     "type": "git",
-    "url": "https://github.com/make-github-pseudonymous-again/js-mincut"
+    "url": "https://github.com/graph-algorithm/minimum-cut"
   },
   "bugs": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-mincut/issues"
+    "url": "https://github.com/graph-algorithm/minimum-cut/issues"
   },
   "keywords": [
     "cut",

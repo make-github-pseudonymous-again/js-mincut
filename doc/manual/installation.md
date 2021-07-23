@@ -6,10 +6,10 @@ or [npm](https://github.com/npm/npm).
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-mincut
+jspm install npm:@graph-algorithm/minimum-cut
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-mincut --save
+npm install @graph-algorithm/minimum-cut --save
 ```

@@ -10,7 +10,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then
 ```js
-const {mincut} = await import( '@aureooms/js-mincut' ) ;
+const {mincut} = await import( '@graph-algorithm/minimum-cut' ) ;
 // or
-import {mincut} from '@aureooms/js-mincut' ;
+import {mincut} from '@graph-algorithm/minimum-cut' ;
 ```
