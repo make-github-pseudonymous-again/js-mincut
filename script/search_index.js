@@ -1,44 +1,44 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-mincut/src/maxback/_contract.js~_contract",
+    "@graph-algorithm/minimum-cut/src/maxback/_contract.js~_contract",
     "function/index.html#static-function-_contract",
-    "<span>_contract</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/maxback/_contract.js</span>",
+    "<span>_contract</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/maxback/_contract.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-mincut/src/maxback/_order.js~_order",
+    "@graph-algorithm/minimum-cut/src/maxback/_order.js~_order",
     "function/index.html#static-function-_order",
-    "<span>_order</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/maxback/_order.js</span>",
+    "<span>_order</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/maxback/_order.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-mincut/src/maxback/_smallcuts.js~_smallcuts",
+    "@graph-algorithm/minimum-cut/src/maxback/_smallcuts.js~_smallcuts",
     "function/index.html#static-function-_smallcuts",
-    "<span>_smallcuts</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/maxback/_smallcuts.js</span>",
+    "<span>_smallcuts</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/maxback/_smallcuts.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-mincut/src/adj.js~adj",
+    "@graph-algorithm/minimum-cut/src/adj.js~adj",
     "function/index.html#static-function-adj",
-    "<span>adj</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/adj.js</span>",
+    "<span>adj</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/adj.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-mincut/src/maxback/maxback.js~maxback",
+    "@graph-algorithm/minimum-cut/src/maxback/maxback.js~maxback",
     "function/index.html#static-function-maxback",
-    "<span>maxback</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/maxback/maxback.js</span>",
+    "<span>maxback</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/maxback/maxback.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-mincut/src/maxback/mb.js~mb",
+    "@graph-algorithm/minimum-cut/src/maxback/mb.js~mb",
     "function/index.html#static-function-mb",
-    "<span>mb</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/maxback/mb.js</span>",
+    "<span>mb</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/maxback/mb.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-mincut/src/outgoingedges.js~outgoingedges",
+    "@graph-algorithm/minimum-cut/src/outgoingedges.js~outgoingedges",
     "function/index.html#static-function-outgoingedges",
-    "<span>outgoingedges</span> <span class=\"search-result-import-path\">@aureooms/js-mincut/src/outgoingedges.js</span>",
+    "<span>outgoingedges</span> <span class=\"search-result-import-path\">@graph-algorithm/minimum-cut/src/outgoingedges.js</span>",
     "function"
   ],
   [
