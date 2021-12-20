@@ -17,8 +17,7 @@ mincut([[0,1],[1,2],[1,3],[2,3],[0,4],[0,5],[4,5]]); // 0--1
 [![License](https://img.shields.io/github/license/graph-algorithm/minimum-cut.svg)](https://raw.githubusercontent.com/graph-algorithm/minimum-cut/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@graph-algorithm/minimum-cut.svg)](https://www.npmjs.org/package/@graph-algorithm/minimum-cut)
 [![Tests](https://img.shields.io/github/workflow/status/graph-algorithm/minimum-cut/ci:test?event=push&label=tests)](https://github.com/graph-algorithm/minimum-cut/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/graph-algorithm/minimum-cut.svg)](https://david-dm.org/graph-algorithm/minimum-cut)
-[![Dev dependencies](https://img.shields.io/david/dev/graph-algorithm/minimum-cut.svg)](https://david-dm.org/graph-algorithm/minimum-cut?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/graph-algorithm/minimum-cut.svg)](https://github.com/graph-algorithm/minimum-cut/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/graph-algorithm/minimum-cut.svg)](https://github.com/graph-algorithm/minimum-cut/issues)
 [![Downloads](https://img.shields.io/npm/dm/@graph-algorithm/minimum-cut.svg)](https://www.npmjs.org/package/@graph-algorithm/minimum-cut)
 
