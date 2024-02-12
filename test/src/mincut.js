@@ -3,7 +3,7 @@ import {map} from '@iterable-iterator/map';
 import {sorted} from '@iterable-iterator/sorted';
 import {increasing} from '@total-order/primitive';
 import {fixedlexicographical} from '@total-order/lex';
-import {mincut} from '../../src/index.js';
+import {mincut} from '#module';
 
 function order(edge) {
 	return sorted(increasing, edge);
