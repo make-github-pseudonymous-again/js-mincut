@@ -1,8 +1,10 @@
 import test from 'ava';
+
 import {map} from '@iterable-iterator/map';
 import {sorted} from '@iterable-iterator/sorted';
-import {increasing} from '@total-order/primitive';
 import {fixedlexicographical} from '@total-order/lex';
+import {increasing} from '@total-order/primitive';
+
 import {mincut} from '#module';
 
 function order(edge) {

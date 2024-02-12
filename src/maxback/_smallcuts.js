@@ -1,8 +1,8 @@
 import {list} from '@iterable-iterator/list';
 import {map} from '@iterable-iterator/map';
 
-import _order from './_order.js';
 import _contract from './_contract.js';
+import _order from './_order.js';
 
 /**
  * Yields the small cuts of undirected unweighted connected loopless multigraph G.
@@ -18,8 +18,8 @@ export default function* _smallcuts(G) {
 
 	while (H.size >= 2) {
 		const ordering = list(_order(H)); // Compute the max-back order
-		const [x] = ordering[ordering.length - 2];
-		const [y, cutsize] = ordering[ordering.length - 1];
+		const [x] = ordering.at(-2);
+		const [y, cutsize] = ordering.at(-1);
 
 		yield [new Set(id.get(y)), cutsize]; // Yield a small cut with its size
 

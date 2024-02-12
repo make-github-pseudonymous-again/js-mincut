@@ -9,8 +9,8 @@ import {head} from '@iterable-iterator/slice';
  * @returns {Map}
  */
 export default function _contract(G, ordering) {
-	const u = ordering[ordering.length - 2];
-	const v = ordering[ordering.length - 1];
+	const u = ordering.at(-2);
+	const v = ordering.at(-1);
 
 	const H = new Map();
 

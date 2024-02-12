@@ -1,6 +1,6 @@
+import {PairingHeap as Heap} from '@heap-data-structure/pairing-heap';
 import {prop} from '@total-order/key';
 import {decreasing} from '@total-order/primitive';
-import {PairingHeap as Heap} from '@heap-data-structure/pairing-heap';
 
 /**
  * Lists the vertices of an undirected unweighted connected loopless multigraph
@@ -15,7 +15,6 @@ export default function* _order(G) {
 
 	for (const v of G.keys()) refs.set(v, heap.push({weight: 0, vertex: v}));
 
-	// eslint-disable-next-line no-unused-vars
 	for (const _ of G) {
 		const max = heap.pop();
 		const u = max.vertex;

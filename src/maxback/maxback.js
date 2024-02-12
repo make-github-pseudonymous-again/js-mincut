@@ -1,5 +1,6 @@
 import adj from '../adj.js';
 import outgoingedges from '../outgoingedges.js';
+
 import mb from './mb.js';
 
 /**
