@@ -6,6 +6,8 @@ Parent is [js-algorithms](https://github.com/make-github-pseudonymous-again/js-a
 See [docs](https://graph-algorithm.github.io/minimum-cut/index.html).
 
 ```js
+import {mincut} from '@graph-algorithm/minimum-cut';
+
 // 5      2
 // |\    /|
 // | 0--1 |
